@@ -1,0 +1,13 @@
+{
+    "name": "lodash.topairs",
+    "description": "The lodash method `_.toPairs` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash._arraymap": "^3.0.0",
+        "lodash.keys": "^4.0.0"
+    },
+    "main": "index.js",
+    "version": "4.0.0"
+}
